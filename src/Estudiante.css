@@ -1,0 +1,15 @@
+.card-header h5 {
+    margin: 0;
+}
+
+.card {
+    border-color: #ff7b3a;
+}
+
+.card-header {
+    background-color: #ff7b3a;
+}
+
+.card h5 {
+    color: white;
+}

@@ -1,0 +1,49 @@
+.footer {
+  height: 70px;
+  position: relative;
+  background-color: #ff7b3a;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  margin-top: 50px;
+  background-color: #f8f9fa;
+}
+
+.avatar img {
+  border-radius: 100%;
+}
+
+.divImgFooter {
+  display: block;
+  margin: auto 0;
+}
+
+.copy {
+  font-size: 10px;
+  color: #ff7b3a;
+}
+
+.footer img {
+  margin-left: 15px;
+}
+
+.footer .row {
+  height: 100%;
+  width: 100%;
+}
+
+.App {
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+.datePicker {
+  width: 100%;
+}
+
+h1, h2, h3 {
+  color: #ff7b3a;
+  text-align: center;
+  margin: 10px 0;
+  font-weight: bold;
+}

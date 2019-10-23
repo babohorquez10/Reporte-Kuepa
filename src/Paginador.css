@@ -1,0 +1,25 @@
+.divBtnPaginador {
+    width: fit-content;
+    display: block;
+    margin: 0 auto;
+}
+
+.divBtnPaginador button, .divBtnPaginador button:disabled {
+    background-color: #ff7b3a;
+    border-color: transparent;
+    color: white;
+}
+
+.divBtnPaginador button:hover:enabled {
+    background-color: #FF5500;
+    border-color: transparent;
+    color: black;
+}
+
+#btnAnterior {
+    margin-right: 10px;
+}
+
+#btnSiguiente {
+    margin-left: 10px;
+}
